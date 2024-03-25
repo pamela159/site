@@ -6,7 +6,6 @@
 </head>
 <body>
 	<h1>Mim não tendeu o que eh pra fazer</h1>
-		<strong> (@-@) </strong>
 <body>
 	<img src="choro.jpg" alt="" srcset="">
 </html>
